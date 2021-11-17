@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "postgres",
+    "password": "ZXCasdqwe123!@#",
     "database": "eventsdb",
     "host": "127.0.0.1",
     "dialect": "postgresql"
